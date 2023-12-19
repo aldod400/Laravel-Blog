@@ -5,7 +5,7 @@
     <div class="hero-bg-image">
         <h1 style="color:rgb(206, 206, 206);" class = "position-absolute top-50 start-50 translate-middle">Wlecome to My Blog</h1>
         <div style="margin: 0 auto;padding: 320px;width: 50%;height:700px">
-            <a href="#" class="btn btn-primary " style="">Start Reading</a>
+            <a href="blog" class="btn btn-primary " style="">Start Reading</a>
         </div>
     </div>
 <br><br>
@@ -16,7 +16,7 @@
 
         <div><br><br>
             <h2 style="font-size: 24px;font:bolder"> &nbsp How to be Expert in 2023</h2>
-            
+
             <p style="text-aline:center">
                 &nbsp &nbsp You can find a list od all programming languages here.
             </p>
